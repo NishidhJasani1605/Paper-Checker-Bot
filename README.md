@@ -10,6 +10,16 @@ This is a Streamlit web application version of the Paper Checker Bot, designed t
 4. **Official Answer Extraction**: Extract official answers from answer key PDFs
 5. **Automated Evaluation**: Compare student answers with official answers and generate evaluation reports
 
+## Streamlit App Workflow (Tabs)
+
+The app is organized into five main tabs, each representing a step in the workflow:
+
+1. **All-in-One Process**: Upload all three PDFs (student answer, question paper, and official answer key) and process them in a single workflow.
+2. **PDF Processing**: Upload and process the student's answer sheet PDF to extract and preprocess images.
+3. **Student Answer Extraction**: Extract student answers from the processed images using AI.
+4. **Official Answer Extraction**: Extract official answers from the answer key PDF using AI.
+5. **Evaluation**: Compare student answers with official answers and generate an evaluation report.
+
 ## Installation
 
 1. Clone this repository or download the files
@@ -24,6 +34,9 @@ pip install -r requirements.txt
    - **Mac**: `brew install poppler`
    - **Linux**: `apt-get install poppler-utils`
 
+4. **Environment Variables**: (Optional, for advanced configuration)
+   - Copy `.env.example` to `.env` and fill in any required values (e.g., API keys). The app primarily uses the Gemini API key entered via the sidebar, but you may store other configuration here if needed.
+
 ## Usage
 
 1. Run the Streamlit app:
@@ -36,12 +49,7 @@ streamlit run app.py
 
 3. Enter your Gemini API key in the sidebar
 
-4. Follow the steps in each tab:
-   - **All-in-One Process**: Upload all three PDFs (student answer, question paper, and official answer key) at once and process them in a single workflow
-   - **PDF Processing**: Upload and process the student's answer sheet PDF
-   - **Student Answer Extraction**: Extract student answers from the processed images
-   - **Official Answer Extraction**: Extract official answers from the answer key PDF
-   - **Evaluation**: Compare student answers with official answers and generate an evaluation report
+4. Follow the steps in each tab as described above.
 
 ## API Key
 
@@ -60,9 +68,49 @@ This application requires a Google Gemini API key. You can get one by:
 - `Student_QNA/`: Folder containing extracted student answers in JSON format
 - `Original_Answer/`: Folder containing extracted official answers in JSON format
 - `Final_Evaluation/`: Folder containing evaluation reports
+- `.env.example` / `.env`: Example and actual environment variable files
+
+## Output Files
+
+- `Student_QNA/student_final_verified_qna.json`: Extracted student answers
+- `Original_Answer/original_answer.json`: Extracted official answers
+- `Final_Evaluation/evaluation_report.txt`: Detailed evaluation report
+
+## Sample Output
+
+**Sample evaluation report excerpt:**
+```
+--- Question 1 ---
+Status: Answered
+Score: 90%
+Justification: The student correctly explained the concept but missed one minor detail mentioned in the official answer.
+👤 Student's Answer:
+[Student's answer text]
+📚 Official Answer:
+[Official answer text]
+----------------------------------------------------------------------
+```
+
+**Sample student Q&A JSON object:**
+```json
+{
+  "question_number": "12",
+  "question_text": "What is Barter System?",
+  "answer_text": "Bartering is the direct exchange of one goods with another goods without the use of money...",
+  "status": "Answered"
+}
+```
+
+## Troubleshooting
+
+- **Poppler not found**: Ensure poppler is installed and its `bin` directory is added to your system PATH.
+- **API errors**: Double-check your Gemini API key and internet connection.
+- **File not found errors**: Make sure you have completed each step in order and that the required files are present in the correct folders.
+- **Python version**: Use Python 3.8 or higher for best compatibility.
 
 ## Notes
 
 - The application uses Google's Gemini AI for text extraction and evaluation
 - For best results, ensure the PDF scans are clear and legible
 - The evaluation is based on semantic understanding, not just keyword matching
+- All dependencies are listed in `requirements.txt`
