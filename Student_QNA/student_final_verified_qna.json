@@ -26,7 +26,7 @@
     {
         "question_number": "1 (v)",
         "question_text": "Administrative price is -",
-        "answer_text": "Both- of A and B",
+        "answer_text": "Both-a A and B",
         "status": "Answered"
     },
     {
@@ -37,43 +37,43 @@
     },
     {
         "question_number": "2 (i)",
-        "question_text": "Transportation, communication, and banking are included in the ______ sector of economy.",
+        "question_text": "Transportation, communication, and banking are included in the ......... sector of economy.",
         "answer_text": "Tertiary",
         "status": "Answered"
     },
     {
         "question_number": "2 (ii)",
-        "question_text": "Reserve Bank of India was nationalized in the year ______.",
-        "answer_text": "1949",
+        "question_text": "Reserve Bank of India was nationalized in the year...",
+        "answer_text": "1949.",
         "status": "Answered"
     },
     {
         "question_number": "2 (iii)",
-        "question_text": "According to Professor Keynes ______ is the fundamental basis of Employment Theory.",
+        "question_text": "According to Professor Keynes ......... is the fundamental basis of Employment Theory.",
         "answer_text": "Aggregate demand",
         "status": "Answered"
     },
     {
         "question_number": "2 (iv)",
-        "question_text": "Interest received is a ______ revenue.",
+        "question_text": "Interest received is a ......... revenue.",
         "answer_text": "Revenue",
         "status": "Answered"
     },
     {
         "question_number": "2 (v)",
-        "question_text": "Balance of ______ includes only visible items.",
-        "answer_text": "payment & Recievable",
+        "question_text": "Balance of ......... includes only visible items.",
+        "answer_text": "Payment & Recievable",
         "status": "Answered"
     },
     {
         "question_number": "2 (vi)",
-        "question_text": "Elasticity of demand is a ______ concept.",
+        "question_text": "Elasticity of demand is a ......... concept.",
         "answer_text": "Quantitative",
         "status": "Answered"
     },
     {
         "question_number": "2 (vii)",
-        "question_text": "Slope of total revenue curve will always be ______.",
+        "question_text": "Slope of total revenue curve will always be .........",
         "answer_text": "Positive",
         "status": "Answered"
     },
@@ -140,7 +140,7 @@
     {
         "question_number": "5 (v)",
         "question_text": "What is the fundamental basis of Keynesian Income and Employment Theory?",
-        "answer_text": "aggregate demand",
+        "answer_text": "aggregate demand.",
         "status": "Answered"
     },
     {
@@ -158,13 +158,13 @@
     {
         "question_number": "6",
         "question_text": "What are the central problems of an economy?",
-        "answer_text": "According to professor Leftwitch , an economics problem arises concerning with the use of scarce resources among alternative human wants and in using these resources towards the ends of satisfying wants as fully as possible",
+        "answer_text": "According to professor Leftwitch, Economics problem or concentral with the use of Scarce resources among alternative human wants and using these resources towards the end of satisfying wants fully as possible",
         "status": "Answered"
     },
     {
         "question_number": "7",
         "question_text": "What is meant by Production Cost?",
-        "answer_text": "Production Cost refers to all those Payments which are spent on production and they can also include the services provided to capital and labour in exchange of their services in production. The normal profit of the entrepreners is also included in it",
+        "answer_text": "Production Cost refers to all those Payments which are spent on production and they can also include the services provided to capital and labour in exchange of their services in Production. Normal profit of the entrepreners also included in it.",
         "status": "Answered"
     },
     {
@@ -176,7 +176,7 @@
     {
         "question_number": "9",
         "question_text": "Write any two consequences of price ceiling.",
-        "answer_text": "Whenever the market demand at prevailing price is greater than market supply at that price then at that price it is said to have excess demand in market.",
+        "answer_text": "If the market demand at prevailing price is greater than market Supply at that price then at that price it's said to have excess demand in market.",
         "status": "Answered"
     },
     {
@@ -200,7 +200,7 @@
     {
         "question_number": "13",
         "question_text": "Write any two characteristics of propensity to consume.",
-        "answer_text": "Aggregate demand means the demand of the Total fund demand of a Country for goods and services in mone term. Demand for goods and services is made for two purposes. 1) Aggregate demand for consumption 2) Aggregate demand for investment",
+        "answer_text": "Aggregate demand means the demand for goods and services. Total demand Demand for goods and services is made for two purposes 1) Aggregate demand for consumption 2) Aggregate demand for investment",
         "status": "Answered"
     },
     {
@@ -272,7 +272,7 @@
     {
         "question_number": "4 (ii)",
         "question_text": "Market demand refers to the demand for",
-        "answer_text": "Supply creates its own demand",
+        "answer_text": "Supply Creates its own demand",
         "status": "Answered"
     },
     {

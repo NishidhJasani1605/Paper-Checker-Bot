@@ -103,7 +103,6 @@ Justification: The student correctly explained the concept but missed one minor 
 
 ## Troubleshooting
 
-- **Poppler not found**: Ensure poppler is installed and its `bin` directory is added to your system PATH.
 - **API errors**: Double-check your Gemini API key and internet connection.
 - **File not found errors**: Make sure you have completed each step in order and that the required files are present in the correct folders.
 - **Python version**: Use Python 3.8 or higher for best compatibility.
