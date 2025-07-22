@@ -5,7 +5,7 @@
 --- Question 1 (i) ---
 Status: Answered
 Score: 0%
-Justification: The student answered "Macro-economics" while the official answer translates to "Micro-economics," representing opposite concepts.
+Justification: The student answered "Macro-economics" while the official answer translates to "Micro-economics", representing opposite concepts.
 
 👤 Student's Answer:
 Macro-economics
@@ -17,10 +17,10 @@ Macro-economics
 --- Question 1 (ii) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer ("More than ol") is nonsensical and does not convey the meaning of the official answer ("एक से कम" which translates to "Less than one").
+Justification: The student's answer "More than of" is incomplete, grammatically incorrect, and conveys the opposite meaning of the Hindi phrase "एक से कम" (less than one).
 
 👤 Student's Answer:
-More than ol
+More than of
 
 📚 Official Answer:
 (अ) एक से कम
@@ -53,10 +53,10 @@ Direct
 --- Question 1 (v) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "Both- a A and B" and the official answer "(स) उपर्युक्त दोनों" (which translates to "Both of the above") convey the same meaning.
+Justification: The student's answer "Both- of A and B" is semantically equivalent to the Hindi official answer "(स) उपर्युक्त दोनों" which translates to "Both of the above".
 
 👤 Student's Answer:
-Both- a A and B
+Both- of A and B
 
 📚 Official Answer:
 (स) उपर्युक्त दोनों
@@ -65,7 +65,7 @@ Both- a A and B
 --- Question 1 (vi) ---
 Status: Answered
 Score: 0%
-Justification: The official answer translates to "Imperfect Competition Market" in English, while the student's answer "All of these" is too vague and doesn't demonstrate understanding of the specific concept.
+Justification: The official answer specifies "Imperfect Competition Market" (ब) in Hindi, while the student's answer "All of these" is too broad and doesn't specifically identify the correct market structure.
 
 👤 Student's Answer:
 All of these
@@ -77,13 +77,13 @@ All of these
 --- Question 2 (i) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "Tertiary" is the correct English translation of the Hindi word "तृतीयक".
+Justification: The student's answer "Tertiary" is the direct English translation of the Hindi word "तृतीयक", both meaning "third in order or level".
 
 👤 Student's Answer:
 Tertiary
 
 📚 Official Answer:
-(i) तृतीयक
+तृतीयक
 ----------------------------------------------------------------------
 
 --- Question 2 (ii) ---
@@ -95,43 +95,43 @@ Justification: The student's answer is identical to the official answer.
 1949
 
 📚 Official Answer:
-(ii) 1949
+1949
 ----------------------------------------------------------------------
 
 --- Question 2 (iii) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer, "Aggregate demand," is the correct English translation of the Hindi term "प्रभावपूर्ण मांग" used in the official answer.
+Justification: प्रभावपूर्ण मांग is the Hindi translation of Aggregate Demand, thus the student's answer is correct.
 
 👤 Student's Answer:
 Aggregate demand
 
 📚 Official Answer:
-(iii) प्रभावपूर्ण मांग
+प्रभावपूर्ण मांग
 ----------------------------------------------------------------------
 
 --- Question 2 (iv) ---
 Status: Answered
 Score: 0%
-Justification: "Revenue" is a broad term, while "गैर कर" (non-tax revenue) refers to a specific type of revenue, making the student's answer too general and inaccurate in this context.
+Justification: The student's answer, "Revenue," refers to income, while the official answer, "गैर कर" (gair kar), means "non-tax revenue," indicating a mismatch in meaning.
 
 👤 Student's Answer:
 Revenue
 
 📚 Official Answer:
-(iv) गैर कर
+गैर कर
 ----------------------------------------------------------------------
 
 --- Question 2 (v) ---
 Status: Answered
-Score: 0%
-Justification: "Payment & Payable" relates to financial transactions, while "व्यापार" (vyapar) means "business" or "trade," representing a broader concept.
+Score: 20%
+Justification: While "payment & receivable" are related to business (व्यापार), they represent only a narrow aspect and do not capture the broader meaning of the term.
 
 👤 Student's Answer:
-Payment & Payable
+payment & Recievable
 
 📚 Official Answer:
-(v) व्यापार
+व्यापार
 ----------------------------------------------------------------------
 
 --- Question 2 (vi) ---
@@ -143,7 +143,7 @@ Justification: The student's answer, "Quantitative," is the opposite of the offi
 Quantitative
 
 📚 Official Answer:
-(vi) गुणात्मक
+गुणात्मक
 ----------------------------------------------------------------------
 
 --- Question 2 (vii) ---
@@ -155,7 +155,7 @@ Justification: The student's answer "Positive" is the correct English translatio
 Positive
 
 📚 Official Answer:
-(vii) घनात्मक
+घनात्मक
 ----------------------------------------------------------------------
 
 --- Question 3 (i) ---
@@ -167,31 +167,31 @@ Justification: The student's answer, "True," is the opposite of the official ans
 True
 
 📚 Official Answer:
-(i) असत्य
+असत्य
 ----------------------------------------------------------------------
 
 --- Question 3 (ii) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "True" is the correct English translation of the Hindi word "सत्य" in the official answer.
+Justification: The student's answer "True" is the correct English translation of the Hindi word "सत्य".
 
 👤 Student's Answer:
 True
 
 📚 Official Answer:
-(ii) सत्य
+सत्य
 ----------------------------------------------------------------------
 
 --- Question 3 (iii) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "True" is the correct English translation of the Hindi word "सत्य" in the official answer.
+Justification: The student's answer "True" is the correct English translation of the Hindi word "सत्य".
 
 👤 Student's Answer:
 True
 
 📚 Official Answer:
-(iii) सत्य
+सत्य
 ----------------------------------------------------------------------
 
 --- Question 3 (iv) ---
@@ -203,215 +203,220 @@ Justification: The student's answer, "True," is the opposite of the official ans
 True
 
 📚 Official Answer:
-(iv) असत्य
+असत्य
 ----------------------------------------------------------------------
 
 --- Question 3 (v) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "True" is a direct and accurate translation of the Hindi word "सत्य" in the official answer.
+Justification: The student's answer "True" is the correct English translation of the Hindi word "सत्य".
 
 👤 Student's Answer:
 True
 
 📚 Official Answer:
-(v) सत्य
+सत्य
 ----------------------------------------------------------------------
 
 --- Question 3 (vi) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer, "True," is the opposite of the official answer, "असत्य (Asatya)," which means "False" in Hindi.
+Justification: The student's answer, "True," is the opposite of the official answer, "असत्य (Asatya)," which means "False."
 
 👤 Student's Answer:
 True
 
 📚 Official Answer:
-(vi) असत्य
+असत्य
 ----------------------------------------------------------------------
 
 --- Question 4 (i) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer, "The general theory of employment," is completely unrelated to the official answer, which discusses the quantity of a good purchased at different prices (translated from Hindi).
+Justification: The student's answer, "The general theory of employment," is completely unrelated to the official answer, which translates to "the quantity of a commodity purchased at different prices" (essentially demand).
 
 👤 Student's Answer:
 The general theory of employment
 
 📚 Official Answer:
-(i) (F) वस्तु की विभिन्न मूल्यों पर क्रय की जाने वाली मात्रा
+(F) वस्तु की विभिन्न मूल्यों पर क्रय की जाने वाली मात्रा
 ----------------------------------------------------------------------
 
 --- Question 4 (ii) ---
 Status: Answered
-Score: 0%
-Justification: The student's answer reflects Say's Law ("supply creates its own demand"), which is a different concept than the official answer which translates to "(E) arises from the demand of an object."
+Score: 20%
+Justification: While "supply creates its own demand" (Say's Law) is a related economic concept, it doesn't directly translate to the Hindi statement about demand originating from a thing/object itself.
 
 👤 Student's Answer:
-Supply Creates its own demand
+Supply creates its own demand
 
 📚 Official Answer:
-(ii) (E) एक वस्तु की मांग से होता है।
+(E) एक वस्तु की मांग से होता है।
 ----------------------------------------------------------------------
 
 --- Question 4 (iii) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer, while hinting at a relationship, doesn't mention the Law of Demand (मांग के नियम) as specified in the official answer.
+Justification: The student's answer, while hinting at a relationship, doesn't specify the "law of demand" (मांग के नियम) as the official answer does.
 
 👤 Student's Answer:
 Directly Correlated with each others
 
 📚 Official Answer:
-(iii) (D) मांग के नियम से
+(D) मांग के नियम से
 ----------------------------------------------------------------------
 
 --- Question 4 (iv) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer, "By law of demand," is completely unrelated to the official answer, which refers to Keynes's "The General Theory of Employment."
+Justification: The student's answer "Matching the" is meaningless and does not relate to the official answer, which is a book title in Hindi, "The General Theory of Employment".
 
 👤 Student's Answer:
-By law of demand
+Matching the
 
 📚 Official Answer:
-(iv) (A) द जनरल थ्योरी ऑफ एम्प्लायमेंट
+(A) द जनरल थ्योरी ऑफ एम्प्लायमेंट
 ----------------------------------------------------------------------
 
 --- Question 4 (v) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer discusses the relationship between price and quantity demanded, while the official answer (translated as "Supply creates its own demand") refers to Say's Law.
+Justification: The student's answer defines demand, while the official answer (which translates to "Supply creates its own demand") describes Say's Law.
 
 👤 Student's Answer:
-Matching The
 Quantity of goods purchased at various price
 
 📚 Official Answer:
-(v) (B) पूर्ति अपने लिये मांग स्वयं उत्पन्न कर लेती है।
+(B) पूर्ति अपने लिये मांग स्वयं उत्पन्न कर लेती है।
 ----------------------------------------------------------------------
 
 --- Question 4 (vi) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer only mentions "Demand of one Commodity" which is incomplete and doesn't reflect the official answer's meaning of "directly related to each other".
+Justification: The student's answer only mentions "demand of one commodity" which is a fragment of an idea and doesn't address the relationship between commodities implied by the Hindi phrase "एक दूसरे से प्रत्यक्ष संबंध रखते है" (have a direct relationship with each other).
 
 👤 Student's Answer:
 Demand of one Commodity
 
 📚 Official Answer:
-(vi) (C) एक दूसरे से प्रत्यक्ष संबंध रखते है।
+(C) एक दूसरे से प्रत्यक्ष संबंध रखते है।
 ----------------------------------------------------------------------
 
 --- Question 5 (i) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "specialization" is the correct English translation of the Hindi word "विशिष्टीकरण".
+Justification: The student's answer "specialization" is a correct English translation of the Hindi word "विशिष्टीकरण".
 
 👤 Student's Answer:
 specialization
 
 📚 Official Answer:
-(i) विशिष्टीकरण
+विशिष्टीकरण
 ----------------------------------------------------------------------
 
 --- Question 5 (ii) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "Total cost" is the correct English translation of the Hindi phrase "कुल लागत" which means total cost.
+Justification: The student's answer "Total cost" is the correct English translation of the Hindi phrase "कुल लागत", meaning the same thing.
 
 👤 Student's Answer:
 Total cost
 
 📚 Official Answer:
-(ii) कुल लागत के बराबर होता है।
+कुल लागत के बराबर होता है।
 ----------------------------------------------------------------------
 
 --- Question 5 (iii) ---
 Status: Answered
-Score: 100%
-Justification: The student's "Positive relationship" accurately translates and conveys the same meaning as the Hindi "प्रत्यक्ष संबंध" (direct/positive relationship).
+Score: 70%
+Justification: While "positive relationship" generally aligns with the meaning of "प्रत्यक्ष संबंध" (direct relationship), it lacks the specific nuance of directness and could also be interpreted as a "good relationship".
 
 👤 Student's Answer:
 Positive relationship
 
 📚 Official Answer:
-(iii) प्रत्यक्ष संबंध
+प्रत्यक्ष संबंध
 ----------------------------------------------------------------------
 
 --- Question 5 (iv) ---
 Status: Answered
 Score: 0%
-Justification: The student's answer, "Per Capita income," is a different concept than the official answer, "संकल घरेलू उत्पाद (Gross Domestic Product)," which refers to the total value of goods and services produced in a country.
+Justification: The official answer translates to "Gross Domestic Product" while the student answered "Per Capita Income," which are distinct and unrelated economic concepts.
 
 👤 Student's Answer:
 Per Capita income
 
 📚 Official Answer:
-(iv) संकल घरेलू उत्पाद
+संकल घरेलू उत्पाद
 ----------------------------------------------------------------------
 
 --- Question 5 (v) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "aggregate demand" is the correct English translation of the Hindi term "प्रभावी मांग".
+Justification: प्रभावी मांग is the Hindi term for aggregate demand, making the student's answer a correct translation.
 
 👤 Student's Answer:
 aggregate demand
 
 📚 Official Answer:
-(v) प्रभावी मांग
+प्रभावी मांग
 ----------------------------------------------------------------------
 
 --- Question 5 (vi) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "Greater than 0 and less than 1" is a correct translation of the Hindi phrase "शून्य से अधिक एवं एक से कम" which means "greater than zero and less than one".
+Justification: The student's answer "Greater than 0 and less than 1" is a perfect English translation of the Hindi phrase "शून्य से अधिक एवं एक से कम", which means the same.
 
 👤 Student's Answer:
-Greater than O and less than 1
+Greater than 0 and less than 1
 
 📚 Official Answer:
-(vi) शून्य से अधिक एवं एक से कम
+शून्य से अधिक एवं एक से कम
 ----------------------------------------------------------------------
 
 --- Question 5 (vii) ---
 Status: Answered
 Score: 100%
-Justification: The student's answer "Profit" is the correct English translation of the Hindi term "लाभ कमाना" (meaning "to earn profit" or simply "profit").
+Justification: The student's answer "Profit" is a correct translation of the Hindi term "लाभ कमाना" which means "to make a profit" or simply "profit".
 
 👤 Student's Answer:
 Profit
 
 📚 Official Answer:
-(vii) लाभ कमाना
+लाभ कमाना
 ----------------------------------------------------------------------
 
 --- Question 6 ---
 Status: Answered
-Score: 20%
-Justification: While the student's answer touches upon the general concept of scarcity and resource allocation, it doesn't address the three specific questions related to "what," "for whom," and "how" to produce, which are the core components of the official answer.
+Score: 100%
+Justification: The student's answer accurately captures the essence of the economic problem as described in the official answer, focusing on the allocation of scarce resources to satisfy unlimited wants.
 
 👤 Student's Answer:
-According to Professor Leftwitch, an Economics problem arises concerning with the use of Scarce resources among alternative human wants and using these resources towards the end of Satisfying wants fully as possible
+According to professor Leftwitch , an economics problem arises concerning with the use of scarce resources among alternative human wants and in using these resources towards the ends of satisfying wants as fully as possible
 
 📚 Official Answer:
-(i) किन वस्तुओं का कितनी मात्रा में उत्पादन किया जाये।
-(ii) वस्तुओं का उत्पादन किसके लिऐ किया जाये।
-(iii) वस्तुओं के उत्पादन का ढंग क्या हो?
+(i) किन वस्तुओं का कितनी मात्रा में उत्पादन किया जाये। (ii) वस्तुओं का उत्पादन किसके लिऐ किया जाये। (iii) वस्तुओं के उत्पादन का ढंग क्या हो?
+
+अथवा
+आर्थिक समस्या का संबंध बैकल्पिक मानवीय आवश्यकताओं में सीमित साधनों का प्रयोग करने और
+इन साधनों का इस दृष्टि से उपयोग करने से है, कि आवश्यकताओं की अधिकतम संतुष्टि संभव हो
+सकें।
 ----------------------------------------------------------------------
 
 --- Question 7 ---
 Status: Answered
-Score: 80%
-Justification: The student correctly identifies production costs as payments for production factors but adds the concept of normal profit, which is not present in the official answer.
+Score: 50%
+Justification: The student correctly defines production cost but omits land and focuses on payments, while the official answer includes rewards for factors of production like land, labor, and capital; the student also adds normal profit which is not mentioned in the official answer's definition.
 
 👤 Student's Answer:
-Production Cost refers to all those Payments which are spent on production and they can also include the services provided to capital and labour in exchange of their services in Production. The normal profit of the enterpreneurs is also included in it.
+Production Cost refers to all those Payments which are spent on production and they can also include the services provided to capital and labour in exchange of their services in production. The normal profit of the entrepreners is also included in it
 
 📚 Official Answer:
 उत्पादन पर व्यय किये गये सभी भुगतान उत्पादन लागत कहलाते हैं इसमें पूंजी, श्रम, भूमि, आदि
 सेवाओं का पुरस्कार भी शामिले होता है।
+
+अथवा
+मानवीय आवश्यकताओं को संतुष्ट करने की क्षमता उपयोगिता कहलाती है।
 ----------------------------------------------------------------------
 
 --- Question 8 ---
@@ -426,20 +431,28 @@ Not Answered
 बाजार में वस्तु की मांग एवं वस्तु की पूर्ति द्वारा निर्धारित मूल्य बाजार संतुलन मूल्य होता है। इसमें
 क्रेता एवं विक्रेता किसी प्रकार की परिवर्तन नहीं चाहते है। यह उस बिन्दु पर निर्धारित होता है जहाँ
 वस्तु की मांग रेखा एवं पूर्ति रेखा एक दूसरे को प्रतिच्छेद करती है।
+
+अथवा
+किसी वस्तु की वह मात्रा, जो किसी निश्चित समय में कीमत विशेष पर बाजार में बिक्री के लिऐ
+उपलब्ध होती हैं, पूर्ति कहलाती है।
 ----------------------------------------------------------------------
 
 --- Question 9 ---
 Status: Answered
-Score: 0%
-Justification: The student's answer discusses excess demand, while the official answer discusses consumer dissatisfaction with rationed goods and the budgetary burden of food subsidies.
+Score: 50%
+Justification: The student's answer defines excess demand, which is the "OR" part of the official answer, but misses the primary points about consumer satisfaction and government subsidies.
 
 👤 Student's Answer:
-Whenever their demand is exceeding its Supply at that price then at that price it's said to have excess demand in market.
+Whenever the market demand at prevailing price is greater than market supply at that price then at that price it is said to have excess demand in market.
 
 📚 Official Answer:
 (1) सभी उपभोक्ता उचित कीमत दुकानों से प्राप्त वस्तुओं की मात्रा से संतुष्ट नहीं होते है।
 (2) इसके निर्धारण हेतु सरकार को खाद्य अनुदान की व्यवस्था करना पड़ती है, जिससे अनावश्यक
 बजट भार बढ़ता है।
+
+अथवा
+वस्तु की जिस कीमत पर बाजार मांग, बाजार पूर्ति से अधिक होती है, वह स्थिति उस वस्तु की
+अधि मांग कहलाती है।
 ----------------------------------------------------------------------
 
 --- Question 10 ---
@@ -454,6 +467,10 @@ Not Answered
 अंतिम वस्तुओं को दो भागों में बाँटा गया है।
 (1) उपभोग वस्तुऐं
 (2) पूंजीगत वस्तुऐं
+
+अथवा
+जो वस्तुऐं अन्य वस्तुओं के उत्पादन में कच्चे माल के रूप में उपयोग होती है, मध्यवर्ती वस्तुऐं
+कहलाती है।
 ----------------------------------------------------------------------
 
 --- Question 11 ---
@@ -465,14 +482,18 @@ Justification: Question was not answered by the student.
 Not Answered
 
 📚 Official Answer:
-उत्पादन के चार कारक निम्न है -
+उत्पादन के चार कारक निम्न है
 भूमि, श्रम, पूंजी, संगठन
+
+अथवा
+राष्ट्रीय पूंजी के घटक निम्न है।
+भवन एवं इमारतें, उपकरण, सोना एवं चांदी के भंडार, शुद्ध विदेशी परिसंपत्तियाँ
 ----------------------------------------------------------------------
 
 --- Question 12 ---
 Status: Answered
-Score: 90%
-Justification: The student accurately describes bartering (the English equivalent of वस्तु विनियम प्रणाली) and its core principle of direct exchange without money, mirroring the official answer's meaning, although with slightly less formal language and a more specific example.
+Score: 50%
+Justification: The student correctly defines one aspect of the official answer (bartering) but completely ignores the second provided definition (Cash Reserve Ratio).
 
 👤 Student's Answer:
 Bartering is the direct exchange of one goods with another goods without the use of money For eg for the services of Carpenter or blacksmith of he is given quintal of wheat then it is bartering.
@@ -481,19 +502,31 @@ Bartering is the direct exchange of one goods with another goods without the use
 विनिमय की वह प्रक्रिया जिसमें कम से कम दो व्यक्ति अपनी वस्तु अथवा सेवाओं का एक दूसरे के
 साथ आदान प्रदान करके अपनी आवश्यकताओं की पूर्ति करते है, वस्तु विनियम प्रवाली कहलाती
 है।
+
+अथवा
+देश के प्रत्येक व्यापारिक बैंक को अपनी कुल जमा राशि का एक निश्चित अनुपात कानून के अनुसार
+देश के केन्द्रीय बैंक के पास नकद कोष के रूप में जमा करना पड़ता है। इसे ही नकद कोष
+अनुपात (CRR) कहते है।
 ----------------------------------------------------------------------
 
 --- Question 13 ---
 Status: Answered
-Score: 0%
-Justification: The student's answer discusses aggregate demand and its components, while the official answer discusses marginal propensity to consume and its relationship with income and wealth.
+Score: 20%
+Justification: While the student mentions aggregate demand and its components consumption and investment, they fail to address the concepts of marginal propensity to consume (MPC) or the specific components listed in the alternative part of the official answer.
 
 👤 Student's Answer:
-Aggregate demand means the demand for goods and services Total demand demand for goods and services is made for two purposes. 1) Aggregate demand for consumption 2) Aggregate demand for investment
+Aggregate demand means the demand of the Total fund demand of a Country for goods and services in mone term. Demand for goods and services is made for two purposes. 1) Aggregate demand for consumption 2) Aggregate demand for investment
 
 📚 Official Answer:
 (1) आय में वृद्धि के साथ-साथ सीमांत उपभोग प्रवृत्ति बढ़ती है।
 (2) निर्धनों की सीमांत उपभोग प्रवृत्ति, धनिकों की अपेक्षा अधिक होती है।
+
+अथवा
+(1) सरकारी उपभोग
+(2) निजी उपभोग
+(3) सरकारी निवेश
+(4) निजी निवेश
+(कोई दो)
 ----------------------------------------------------------------------
 
 --- Question 14 ---
@@ -507,6 +540,12 @@ Not Answered
 📚 Official Answer:
 यह प्रति इकाई उपभोग है। यह व्यक्ति की आय पर निर्भर करती है। यह खरीदने की क्षमता से
 निर्धारित होती है।
+
+अथवा
+(1) अर्थ व्यवस्था में कोई सरकारी हस्तक्षेप नहीं होता है।
+(2) मजदूरी की दर एवं कीमतें लोचपूर्ण होती है।
+(3) अर्थव्यवस्था में मृद्रा प्रसार के बिना भी पूर्व रोजगार रहता है।
+(कोई दो)
 ----------------------------------------------------------------------
 
 --- Question 15 ---
@@ -519,6 +558,10 @@ Not Answered
 
 📚 Official Answer:
 विनियोग में वृद्धि के कारण राष्ट्रीय आय में वृद्धि के बीच के अनुपात के विवियोग गुणक कहते है।
+
+अथवा
+यदि आय का संतुलन स्तर पूर्ण रोजगार के स्तर से पहले निर्धारित होता है तो यह अभावी मांग की
+स्थिति होती है।
 ----------------------------------------------------------------------
 
 --- Question 16 ---
@@ -533,6 +576,13 @@ Not Answered
 (1) किसी वस्तु को प्राप्त करने की इच्छा
 (2) वस्तु को क्रय करने का साधन
 (3) साधनों को प्राप्त करने की तत्परता
+
+अथवा
+(1) भविष्य में वस्तु की दुर्लभता की संभावना।
+(2) उपभोक्ता की अज्ञानता
+(3) गिफिन विरोधाभास
+(4) प्रतिष्ठा सूचक वस्तुओं पर लागू नहीं।
+(कोई तीन)
 ----------------------------------------------------------------------
 
 --- Question 17 ---
@@ -544,14 +594,28 @@ Justification: Question was not answered by the student.
 Not Answered
 
 📚 Official Answer:
-पूरक वस्तुऐं                               स्थानापन्न वस्तुऐं
+पूरक वस्तुऐं                                      स्थानापन्न वस्तुऐं
 (1) किसी वस्तु का प्रयोग अन्य कि दूसरी (1) किसी वस्तु का प्रयोग किसी अन्य वस्तु के स्थान
-वस्तु के अभाव में नहीं किया जा           पर किया जा सकें तो स्थानापन्न वस्तु कहलाती
-सकता ।                                      है।
+वस्तु के अभाव में नहीं किया जा
+पर किया जा सकें तो स्थानापन्न वस्तु कहलाती
+सकता ।
+है।
 (2) एक वस्तु की कीमत बढ़ने पर दूसरी (2) एक वस्तु का मूल्य बढ़ जाने पर स्थानापन्न वस्तु
-वस्तु की मांग कम हो जाती है।              की मांग बढ़ जाती है।
-(3) उदाहरण – बेड वॉल पेन                  (3) उदाहरण – चाय कॉफी, गुड़ चीनी आदि
-स्याही
+वस्तु की मांग कम हो जाती है।
+की मांग बढ़ जाती है।
+(3) उदाहरण बेड वॉल पेन
+स्याही                             (3) उदाहरण चाय कॉफी, गुड़ चीनी आदि
+
+अथवा
+व्यक्तिगत मांग                         बाजार मांग
+(1) यह एक व्यक्ति की मांग होती है। (1) यह बाजार में उपस्थित बहुत सारे व्यक्तियों की
+होती है।
+(2) एक व्यक्ति इसको प्रभावित कर (2) एक व्यक्ति कभी भी इसे प्रभावित नहीं कर
+सकता है।                           सकता।
+(3) यह मूल्य एवं एक व्यक्ति द्वारा मांगी (3) यह मूल्य एवं विभिन्न व्यक्तियों द्वारा मांगी गई
+गई मात्रा में फलनात्मक संबंध को
+मात्रा में फलनात्मक संबंध को दर्शाती है।
+दर्शाती है।
 ----------------------------------------------------------------------
 
 --- Question 18 ---
@@ -568,6 +632,20 @@ Not Answered
 (3) बाजार का पूर्ण ज्ञान
 (4) बाजार में फर्मों का स्वतंत्र प्रवेश एवं बहिर्गगन
 (कोई तीन)
+
+अथवा
+फर्म की पूर्ति की कीमत लोच (ES) = 1.25
+प्रारंभिक कीमत P₁ = 10 ₹
+अंतिम कीमत P2 = 50 ₹
+प्रारंभिक उत्पादन Q1 = 5 इकाईयाँ
+कीमत में परिवर्तन (AP) = P2 – P1
+= 50-10 = 40 ₹
+Es = ΔΩ/ΔΡ × P1/Q1
+1.25 = ΔΩ/40 × 10/5
+1.25 = ΔΩ/20
+ΔQ = 1.25 x 20 = 25.5 min
+अंतिम उत्पादन Q2 = ∆Q + Q1
+= 25 + 5 = 30 इकाईयाँ
 ----------------------------------------------------------------------
 
 --- Question 19 ---
@@ -584,6 +662,12 @@ Not Answered
 वचत में भी वृद्धि होगी। तथा लोग अपनी आय को नगद के स्थान पर बैंक में रखना पसंद करेंगें।
 मुद्रा की पूर्ति – मुद्रा की पूर्ति सरकार द्वारा बैंकों के माध्यम से नगदी एवं बैंक जमाओं के माध्यम
 से होती है। मुद्रा की पूर्ति पर पूर्ण नियंत्रण केन्द्रीय बैंक के माध्यम से होता है।
+
+अथवा
+(1) रिजर्व बैंक किसी प्रकार के खाते नहीं खोल सकता।
+(2) रिजर्व बैंक जमा राशि पर ब्याज नहीं दें सकता।
+(3) अपने कार्यालय को छोड़कर कोई अचल संपत्ति नहीं खरीद सकता।
+(4) किसी कंपनी के शेयर नहीं खरीद सकता।
 ----------------------------------------------------------------------
 
 --- Question 20 ---
@@ -600,6 +684,12 @@ Not Answered
 (2) अनाधिमान बक्र बांये से दांये, नीचे की ओर ढ़लवा होते है।
 (3) उच्च अनाधिमान बक्र उपयोगिता के उच्च स्तर को दर्शाता है।
 (4) अनाधिमान बक्र मूल बिन्दु की ओर उन्नतोदर होते है।
+
+अथवा
+जिन वस्तुओं की मांग उपभोक्ता के आय के विपरीत होती है, उन्हें निम्न स्तरीय वस्तुएँ कहते है।
+अर्थात् उपभोक्ता की आय बढ़ने पर इन वस्तुओं की मांग कम होने लगती है। एवं आय कम होने
+पर इस प्रकार की वस्तुओ की मांग बढ़ जाती है। इन वस्तुओं को गिफिन बस्तुऐं भी कहते है। जैसे
+देश घी की तुलना में डालडा निम्न स्तरीय खाद्य पदार्थ अथवा मोटे अनाज आदि।
 ----------------------------------------------------------------------
 
 --- Question 21 ---
@@ -622,6 +712,15 @@ L = 0 एवं K = 10
 Q = 2 (0)² (10)²
 Q = (0) (100)
 Q = 0 इकाई
+
+अथवा
+जब किसी वस्तु के उत्पादन में प्रयोग होने वाले सभी साधनों को बढ़ाया जाता है, तो इसका उत्पादन
+पर क्या प्रभाव पड़ता है। इसका अध्ययन पैमाने के प्रतिफल के अंतर्गत किया जाता है। दीर्घकाल
+में उत्पादन के सभी साधन परिवर्तनशील होते है।
+पैमाने के प्रतिफल की तीन अवस्थांऐं होती है।
+(1) पैमाने के बढ़ते प्रतिफल
+(2) पैमाने के घटते प्रतिफल
+(3) पैमाने के समान प्रतिफल
 ----------------------------------------------------------------------
 
 --- Question 22 ---
@@ -633,10 +732,17 @@ Justification: Question was not answered by the student.
 Not Answered
 
 📚 Official Answer:
-संतुलित बजट – वह बजट, जिसमें आय एवं व्यय समान होते है, संतुलित बजट कहलाता है।
-असंतुलित बजट – वह बजट, जिसमें आय एवं व्यय समान होते है, असंतुलित बजट कहलाता है।
+संतुलित बजट वह बजट, जिसमें आय एवं व्यय समान होते है, संतुलित बजट कहलाता है।
+असंतुलित बजट वह बजट, जिसमें आय एवं व्यय समान होते है, असंतुलित बजट कहलाता है।
 असंतुलित बजट - जब किसी कारण बश सरकार पूरे वित्तीय वर्ष का बजट प्रस्तुत करने में असमर्थ
 होती है तब वर्ष के कुछ माहों के लिऐ आय-व्यय का प्रावधान करना अंतरिम बजट कहलाता है।
+
+अथवा
+सार्वजनिक वस्तु का प्रयोग सभी लोग करते है। सार्वजनिक वस्तु सरकार के द्वारा सभी के हित एवं
+सुविधा के लिऐ बनाई जाती है। इस पर किसी का व्यक्तिगत अधिकार नहीं होता है। कोई भी व्यक्ति
+इस वस्तु के अधिपत्य का दावा नहीं कर सकता है। इस वस्तु का प्रयोग करने पर किसी भी प्रकार
+का किराया। टेक्स नहीं देना होता है। अतः सार्वजनिक वस्तु को सरकार द्वारा ही प्रदान करना
+चाहिये।
 ----------------------------------------------------------------------
 
 --- Question 23 ---
@@ -648,7 +754,7 @@ Justification: Question was not answered by the student.
 Not Answered
 
 📚 Official Answer:
-विदेशी विनियम दर को प्रभावित करने वाले तत्व –
+विदेशी विनियम दर को प्रभावित करने वाले तत्व
 (1) विदेशी व्यापार नीति
 (2) बैंक की क्रियांऐं
 (3) चलन दशांऐं
@@ -656,6 +762,15 @@ Not Answered
 (5) मध्यस्थों की क्रियाऐं
 (6) स्टॉक एक्सचेंज अथवा सट्टा बाजार
 (किन्ही चार का वर्णन करने पर)
+
+अथवा
+भुगतान संतुलन के पूजीगत खाते में सम्मिलित मदें
+(1) सरकारी ऋण
+(2) बैंकिंग पूंजी
+(3) सकल ऋण भुगतान
+(4) मुद्रा कोष से पुनः क्रय
+(5) अल्प कालीन निजी निवेश
+(6) दीर्घकालीन निजी निवेश
 ----------------------------------------------------------------------
 
 ======================================================================
@@ -663,5 +778,5 @@ Not Answered
 ======================================================================
 Total Questions: 50
 Questions Answered by Student: 37
-Average Score on Answered Questions: 45.68%
+Average Score on Answered Questions: 48.11%
 ======================================================================

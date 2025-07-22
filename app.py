@@ -6,7 +6,8 @@ import cv2
 import numpy as np
 import google.generativeai as genai
 from PIL import Image
-from pdf2image import convert_from_bytes
+import pymupdf  # Replaced pdf2image
+import io       # Needed for pymupdf with PIL
 from dotenv import load_dotenv
 import shutil
 
@@ -212,7 +213,19 @@ if st.button("🚀 Grade Paper", type="primary"):
             with st.spinner("Grading in progress... This may take several minutes."):
                 # Step 1: Preprocess Student's PDF
                 st.info("Step 1/5: Converting and cleaning student's answer sheet...")
-                student_images_pil = convert_from_bytes(student_pdf_file.getvalue())
+
+                # --- UPGRADED PDF CONVERSION USING PYMUPDF ---
+                pdf_bytes = student_pdf_file.getvalue()
+                doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
+                student_images_pil = []
+                for page in doc:
+                    pix = page.get_pixmap()
+                    img_data = pix.tobytes("png")
+                    pil_image = Image.open(io.BytesIO(img_data))
+                    student_images_pil.append(pil_image)
+                doc.close()
+                # --- END OF UPGRADE ---
+
                 preprocessed_paths = [os.path.join(temp_dir, f"page_{i+1}.png") for i in range(len(student_images_pil))]
                 for i, pil_image in enumerate(student_images_pil):
                     cv_img = np.array(pil_image)[:, :, ::-1].copy()
@@ -223,10 +236,10 @@ if st.button("🚀 Grade Paper", type="primary"):
                 st.info("Step 2/5: Reading student's answers using AI...")
                 temp_question_path = os.path.join(temp_dir, "question.pdf")
                 with open(temp_question_path, "wb") as f: f.write(question_pdf_file.getvalue())
-                
+
                 parts = [MASTER_QNA_PROMPT_STUDENT, genai.upload_file(path=temp_question_path)]
                 for path in preprocessed_paths: parts.append(genai.upload_file(path=path))
-                
+
                 response = model.generate_content(parts)
                 student_qna_data = safe_json_loads(response.text, "Student Answer Extraction")
                 if not student_qna_data: st.stop()
@@ -277,7 +290,7 @@ if st.button("🚀 Grade Paper", type="primary"):
                         except Exception as e:
                             item["score"], item["justification"] = -1, f"AI evaluation failed: {e}"
                     evaluated_results.append(item)
-                
+
                 # Step 5: Finalize and Store Results
                 st.info("Step 5/5: Compiling the final report...")
                 st.session_state.final_results = evaluated_results
@@ -291,7 +304,7 @@ if st.button("🚀 Grade Paper", type="primary"):
 # --- Display Results ---
 if 'final_results' in st.session_state:
     results = st.session_state.final_results
-    
+
     unique_question_numbers = set()
     for item in results:
         q_num = item.get('question_number', 'N/A')
@@ -321,10 +334,10 @@ if 'final_results' in st.session_state:
      # --- NEW: Interactive Q&A Section ---
     st.markdown("---")
     st.header("3. 💬 Ask About a Specific Question")
-    
+
     if results:
         question_numbers = [item.get('question_number', 'N/A') for item in results]
-        
+
         selected_q_num = st.selectbox(
             "Select a question number to see the detailed comparison:",
             options=question_numbers,
@@ -335,15 +348,15 @@ if 'final_results' in st.session_state:
         if selected_q_num:
             # Find the selected question's data from the results
             selected_data = next((item for item in results if item['question_number'] == selected_q_num), None)
-            
+
             if selected_data:
                 st.markdown(f"#### Comparison for Question: `{selected_data['question_number']}`")
-                
+
                 col1, col2 = st.columns(2)
                 with col1:
                     st.subheader("👤 Student's Answer")
                     st.info(selected_data.get('student_answer', 'Not Answered'))
-                
+
                 with col2:
                     st.subheader("📚 Official Answer")
                     st.success(selected_data.get('official_answer', 'N/A'))
@@ -374,5 +387,3 @@ if 'final_results' in st.session_state:
         official_data = st.session_state.get('official_qna_data', {})
         st.json(official_data, expanded=False)
         st.download_button(label="Download Official Answers (.json)", data=json.dumps(official_data, indent=4, ensure_ascii=False), file_name="official_answers.json", mime="application/json")
-
-   
